@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mutiara Islam</string>
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+    <string name="navigation_view_item_1">Quotes</string>
+    <string name="navigation_view_item_2">Kategori</string>
+    <string name="navigation_view_item_3">Favorit</string>
+    <string name="navigation_view_item_4">Tentang</string>
+    <string name="navigation_view_item_5">Apps Lainnya</string>
+    <string name="navigation_view_item_6">Keluar</string>
+</resources>
